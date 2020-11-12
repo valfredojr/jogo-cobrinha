@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #34495e;
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    text-decoration: capitalize;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 14px;
+}
